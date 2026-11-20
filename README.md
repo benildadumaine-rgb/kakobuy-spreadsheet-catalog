@@ -3,7 +3,9 @@ A Kakobuy Spreadsheet is a browsable catalog of products that can be ordered thr
 
 An independent, static index of Kakobuy and Taobao product listings. It is a browsable website, not a Google Sheet, and it is not affiliated with Kakobuy.
 ## Dataset at a glance
+**Browse it:** https://sites.google.com/view/kakobuy-spreadsheet-catalog
 
+**Download the CSV:** https://github.com/benlidunamne-rgb/kakobuy-spreadsheet-catalog/releases/latest
 - Products: 1,148
 - Style rows: 14,535
 - Categories: 6

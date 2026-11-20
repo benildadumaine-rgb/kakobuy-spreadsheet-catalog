@@ -1,7 +1,7 @@
 # Kakobuy Spreadsheet Catalog
+A Kakobuy Spreadsheet is a browsable catalog of products that can be ordered through Kakobuy, a buying agent for Taobao, Weidian and 1688. This repository documents one such catalog: 1,148 products listed as 14,535 style rows across six categories.
 
 An independent, static index of Kakobuy and Taobao product listings. It is a browsable website, not a Google Sheet, and it is not affiliated with Kakobuy.
-
 ## Dataset at a glance
 
 - Products: 1,148

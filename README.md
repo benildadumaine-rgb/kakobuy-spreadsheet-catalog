@@ -61,3 +61,20 @@ Fragrance is excluded while sourcing is paused. Long sleeves is a shortcut insid
 ## Disclaimer
 
 This is an independent resource. It does not process orders, payments or shipping, and it is not operated by Kakobuy.
+
+## FAQ
+
+**What is a Kakobuy Spreadsheet?**
+A browsable catalog of products that can be ordered through Kakobuy, a buying agent for Taobao, Weidian and 1688. This catalog lists 1,148 products as 14,535 style rows across six categories, and it is a website rather than a static Google Sheet.
+
+**Is there a Kakobuy spreadsheet with prices?**
+Yes. Every row shows a USD display price, and the current range runs from $1.07 to $192.65. Prices are converted at display time and re-checked in batches, so confirm the final price on the agent's checkout page.
+
+**How many items are in the catalog?**
+1,148 products, expanded to 14,535 style rows. A style row is one variant of a product, such as one colorway or size range, so a single product can produce several rows.
+
+**How often is it updated?**
+The catalog was last refreshed on 2026-10-29 and prices were last fully checked on 2026-08-16. There is no guaranteed weekly schedule.
+
+**Do I need an account?**
+No. The catalog opens in a browser with no account and no download.
